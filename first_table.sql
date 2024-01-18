@@ -14,7 +14,7 @@ create table clint_master(
     City varchar(30), 
     pincode int,
     Cstate varchar(50),
-    Baldue int,
+    Baldue int
 );
 
 -- describe clit_master;

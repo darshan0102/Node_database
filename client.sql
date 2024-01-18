@@ -1,5 +1,5 @@
 create table client2(
-    ClintNo varchar(20) primary key,
+    ClintNo varchar(20),
     CName varchar(20),
     Address1 varchar(20),
     Address2 varchar(20),
